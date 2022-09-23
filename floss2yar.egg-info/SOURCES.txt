@@ -1,0 +1,13 @@
+README.md
+setup.py
+floss2yar/__init__.py
+floss2yar/main.py
+floss2yar.egg-info/PKG-INFO
+floss2yar.egg-info/SOURCES.txt
+floss2yar.egg-info/dependency_links.txt
+floss2yar.egg-info/entry_points.txt
+floss2yar.egg-info/requires.txt
+floss2yar.egg-info/top_level.txt
+floss2yar/yar_utils/__init__.py
+floss2yar/yar_utils/func_parsing.py
+floss2yar/yar_utils/processing.py

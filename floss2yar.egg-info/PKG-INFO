@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: floss2yar
+Version: 0.1
+Summary: Generate YARA Based on code similarity
+Home-page: UNKNOWN
+Author: Greg Lesnewich and Connor McLaughlin
+Author-email: glesnewich@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
+
+UNKNOWN
+

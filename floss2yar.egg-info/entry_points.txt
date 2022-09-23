@@ -1,0 +1,3 @@
+[console_scripts]
+floss2yar = floss2yar.main:main
+

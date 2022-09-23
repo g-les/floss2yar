@@ -1,0 +1,9 @@
+flare-floss==2.0.0
+flirt==0.0.2
+pefile==2022.5.30
+python-flirt==0.7.0
+viv-utils==0.7.5
+vivisect==1.0.8
+yara-python==4.2.0
+rzpipe==0.4.0
+numpy<1.23
