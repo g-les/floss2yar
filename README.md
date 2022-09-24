@@ -4,7 +4,7 @@ Adventures in Awful Python To Find Shared Code
 Required installs include:
 - `flare-floss`
 - `rizin`
-- `r2pipe`
+- `rzpipe`
 - `vivisect`
 
 
