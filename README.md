@@ -1,6 +1,8 @@
 # floss2yar
 Adventures in Awful Python To Find Shared Code
 
+Good code from Connor McLaughlin, bad code from Greg Lesnewich
+
 Required installs include:
 - `flare-floss`
 - `rizin`
@@ -9,7 +11,7 @@ Required installs include:
 
 
 ## Premise
-This tooling came out of an attempt to speed up a 'secret-sauce' of my YARA workflow. One of the first things I'd do when facing a new cluster of malware or sample I was tasked with would be to run FLOSS on the file. By happen-stance in 2020 I saw a tweet from Marc Ochsenmeier referencing the '-x' flag (or expert :D) that kindly highlights likely encoding functions from FLOSS's emulation in addition to some other goodies. Example of the old run of FLOSS with -x flag showing function scoring:
+This tooling came out of an attempt to speed up a 'secret-sauce' of our YARA workflow. One of the first things we'd do when facing a new cluster of malware or sample tasked with would be to run FLOSS on the file. A tweet from Marc Ochsenmeier referencing the '-x' flag (or expert :D) that kindly highlights likely encoding functions from FLOSS's emulation in addition to some other goodies. Example of the old run of FLOSS with -x flag showing function scoring:
 
 ```
 $ floss Testing/SampleDump//Turla/35f205367e2e5f8a121925bbae6ff07626b526a7 -x
